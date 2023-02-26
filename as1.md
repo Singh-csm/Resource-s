@@ -42,3 +42,37 @@ A replica set is a group of MongoDB servers that maintain the same data set. Rep
 
 Transaction Property in DBMS:
 Transaction is a property of database management systems that ensures the consistency, integrity, and durability of data during database operations. A transaction is a set of operations that must either all succeed or all fail,
+
+Higher-order component: A higher-order component works by taking a component as an argument and returning a new component with additional props, state, or functionality. For example, an HOC may add authentication logic or data fetching capabilities to a component.
+
+Pure component: In ReactJS, a pure component is a type of component that is optimized for performance. Pure components are a subclass of regular class components and are implemented using the React.PureComponent base class.
+
+Streams: In Node.js, streams are a way to handle reading and writing large amounts of data in chunks, rather than all at once. Streams allow you to process data as it is being streamed, which can improve performance and reduce memory usage.
+four types :
+Readable streams: streams from which data can be read, for example, reading from a file or an HTTP response.
+Writable streams: streams to which data can be written, for example, writing to a file or an HTTP request.
+Duplex streams: streams that can both read from and write to the same stream, for example, a socket connection.
+Transform streams: a type of duplex stream that can modify the data as it is being read or written, for example, compressing or encrypting data.
+
+SOAP: SOAP APIs are commonly used in enterprise applications, where they provide a standardized way for different systems to communicate with each other. SOAP provides a rich set of features for managing security, transactional integrity, and other aspects of distributed computing
+
+However, SOAP has some limitations compared to other web service protocols, such as REST (Representational State Transfer), which is based on a simpler, more lightweight architecture. REST APIs are more commonly used for web-based applications and mobile apps, while SOAP APIs are more commonly used in enterprise applications and other systems that require advanced functionality.
+
+Sharding: In a sharded MongoDB deployment, the data is divided into chunks and distributed across multiple servers or nodes, called shards. Each shard contains a subset of the data, and queries that span multiple shards are automatically routed to the appropriate nodes
+
+Indexing: Indexing is a technique used in databases to improve the performance of queries. An index is a data structure that allows for faster searching and sorting of data based on one or more fields. In a database, an index is created on a table column or a set of columns that are frequently searched or used for sorting.
+
+useEffect: useEffect is a hook function in React that enables you to add side effects in functional components. It is used to perform tasks such as fetching data, subscribing to events, or updating the DOM. useEffect is called after the component has rendered or re-rendered.
+
+useEffect takes two arguments, a function that performs the side effect, and an array of dependencies that determines when the effect should be re-run. The function passed as the first argument is called the "effect function", and it can return a "cleanup function" that is called when the component is unmounted or the dependencies change.
+
+call method: In JavaScript, the call method is a built-in function that allows you to invoke a function with a specific this value and arguments. The call method is a property of all JavaScript functions, and it takes two or more arguments:
+
+The this value to be used inside the function.
+The arguments to be passed to the function.
+
+bind : The bind method is used to create a new function that has the same functionality as the original function, but with a different this value and possibly pre-defined arguments. This is useful when you want to use a function as a method of a different object, or when you want to create a partially applied function.
+
+apply: The apply method is similar to the call method, but it takes an array of arguments instead of individual arguments.
+
+assert in nodejs : assert is a built-in module in Node.js and a debugging tool in JavaScript that allows you to write assertions for your code. Assertions are statements that evaluate to either true or false and are used to check that your code is working as expected.
