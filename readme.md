@@ -28,3 +28,7 @@
 ![image](https://user-images.githubusercontent.com/118621709/236146820-decaf847-360b-4ed2-8d36-29949e86ce7b.png)
 ![src_mark_hor_blk](https://user-images.githubusercontent.com/118621709/236147817-c3a53ce9-3610-4626-ae02-100d2fa85d20.svg)
 
+Connect with me
+
+
+<a href="mailto:jainsparsh0801@gmail.com" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=jainsparsh0801@gmail.com&label=send&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainsparsh0801@gmail.com" /> </a> <a href="https://www.github.com/SparshJain2000/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@SparshJain2000&color=grey&logo=github&style=for-the-badge&logoColor=white&colorA=black" /> </a> <a href="https://www.linkedin.com/in/sparsh-jain-87379a168/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@SparshJain&color=success&logo=linkedin&style=for-the-badge&logoColor=white&colorA=blue" /> </a>
