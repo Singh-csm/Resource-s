@@ -32,3 +32,25 @@ Connect with me
 
 
 <a href="mailto:jainsparsh0801@gmail.com" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=jainsparsh0801@gmail.com&label=send&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainsparsh0801@gmail.com" /> </a> <a href="https://www.github.com/SparshJain2000/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@SparshJain2000&color=grey&logo=github&style=for-the-badge&logoColor=white&colorA=black" /> </a> <a href="https://www.linkedin.com/in/sparsh-jain-87379a168/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@SparshJain&color=success&logo=linkedin&style=for-the-badge&logoColor=white&colorA=blue" /> </a>
+
+> 📧 <thabding@student.arteveldehs.be> • ☎️ 0478570549  • 🏡 Belgium 
+
+### MY SKILLS 🔔
+
+|**Soft Skills**    |              |     |**Hard Skills**   |             | 
+|:------------------|:------------:|:---:|:-----------------|------------:|
+|Creativity         |🌕🌕🌕🌕🌗  |     |HTML/CSS         |🌕🌕🌕🌕🌗 | 
+|Problem Solving    |🌕🌕🌕🌕🌗  |     |WordPress        |🌕🌕🌕🌕🌑 |    
+|Flexibility        |🌕🌕🌕🌕🌑  |     |UI/UX design     |🌕🌕🌕🌕🌑 |     
+|Optimism           |🌕🌕🌕🌕🌑  |     |Sass/Scss        |🌕🌕🌕🌗🌑 |     
+|Communication      |🌕🌕🌕🌕🌑  |     |JavaScript       |🌕🌕🌕🌗🌑 |   
+|Teamwork           |🌕🌕🌕🌕🌑  |     |JS-Frameworks    |🌕🌕🌕🌗🌑 | 
+                                                                           
+### Hi there 👋
+
+I am a passionate Frontend Developer with a practical “can-do” 💪 attitude. Thanks to my creativity 🎨, I'm always able to solve problems, both personal and technical.
+I am a natural communicator 📢 who easily connects with others.
+My current areas of interest include UI/UX, SEO, and Frontend Development💻.
+
+<br/>                                                                         
+                                                                           
