@@ -27,6 +27,8 @@
 
 ![image](https://user-images.githubusercontent.com/118621709/236146820-decaf847-360b-4ed2-8d36-29949e86ce7b.png)
 ![src_mark_hor_blk](https://user-images.githubusercontent.com/118621709/236147817-c3a53ce9-3610-4626-ae02-100d2fa85d20.svg)
+![image](https://github.com/Singh-csm/Resource-s/assets/118621709/a4b9cf8d-2ce3-439e-bc15-2ba94190f414)
+
 
 Connect with me
 
