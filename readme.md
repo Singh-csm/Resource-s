@@ -30,6 +30,9 @@
 ![image](https://github.com/Singh-csm/Resource-s/assets/118621709/a4b9cf8d-2ce3-439e-bc15-2ba94190f414)
 
 
+![WhatsApp Image 2023-07-02 at 3 23 44 PM (1)](https://github.com/Singh-csm/Resource-s/assets/118621709/2f531684-2f13-4f5c-9611-8d263369ddc6)
+
+
 Connect with me
 
 
