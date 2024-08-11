@@ -74,3 +74,6 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 
 ![explore-wonderslogo](https://github.com/Singh-csm/Resource-s/assets/118621709/6cd8b853-60fa-4dad-9a04-6124f0efe6a0)
 
+![WhatsApp Image 2024-08-11 at 4 39 23 PM](https://github.com/user-attachments/assets/3ebdb058-3058-4dcb-8d28-ae72ed96c303)
+![WhatsApp Image 2024-08-11 at 4 39 47 PM](https://github.com/user-attachments/assets/2f4bffc3-1723-452c-bf64-5594b73199c8)
+
